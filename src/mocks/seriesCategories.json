@@ -1,0 +1,227 @@
+[
+    {
+        "category_id": "415",
+        "category_name": "SERIES - AMC+",
+        "parent_id": 0
+    },
+    {
+        "category_id": "401",
+        "category_name": "S\u00c9RIES - Apple TV",
+        "parent_id": 0
+    },
+    {
+        "category_id": "392",
+        "category_name": "SERIES - NETFLIX",
+        "parent_id": 0
+    },
+    {
+        "category_id": "404",
+        "category_name": "S\u00c9RIES - DISCOVERY +",
+        "parent_id": 0
+    },
+    {
+        "category_id": "400",
+        "category_name": "S\u00c9RIES - DISNEY + PLUS",
+        "parent_id": 0
+    },
+    {
+        "category_id": "394",
+        "category_name": "S\u00c9RIES - GLOBOPLAY",
+        "parent_id": 0
+    },
+    {
+        "category_id": "393",
+        "category_name": "S\u00c9RIES - HBOMAX",
+        "parent_id": 0
+    },
+    {
+        "category_id": "414",
+        "category_name": "SERIES - HULU",
+        "parent_id": 0
+    },
+    {
+        "category_id": "413",
+        "category_name": "S\u00c9RIIES - LIONSGATE +",
+        "parent_id": 0
+    },
+    {
+        "category_id": "403",
+        "category_name": "S\u00c9RIES - PARAMOUNT +",
+        "parent_id": 0
+    },
+    {
+        "category_id": "408",
+        "category_name": "SERIES - PLAYPLUS - RECORD",
+        "parent_id": 0
+    },
+    {
+        "category_id": "396",
+        "category_name": "S\u00c9RIES - PRIME AMAZON VIDEO",
+        "parent_id": 0
+    },
+    {
+        "category_id": "410",
+        "category_name": "S\u00c9RIES - STARZ",
+        "parent_id": 0
+    },
+    {
+        "category_id": "397",
+        "category_name": "S\u00c9RIES - STAR + PREMIUM",
+        "parent_id": 0
+    },
+    {
+        "category_id": "395",
+        "category_name": "S\u00c9RIES - YOUTUBE PREMIUM",
+        "parent_id": 0
+    },
+    {
+        "category_id": "406",
+        "category_name": "S\u00c9RIES - DORAMA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "371",
+        "category_name": "S\u00c9RIES - A\u00c7\u00c3O",
+        "parent_id": 0
+    },
+    {
+        "category_id": "204",
+        "category_name": "S\u00c9RIES - ANIMA\u00c7\u00c3O\/ INFANTIL",
+        "parent_id": 0
+    },
+    {
+        "category_id": "253",
+        "category_name": "S\u00c9RIES - AVENTURA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "372",
+        "category_name": "S\u00c9RIES - COM\u00c9DIA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "378",
+        "category_name": "S\u00c9RIES - CHICAGO UNIVERSE",
+        "parent_id": 0
+    },
+    {
+        "category_id": "374",
+        "category_name": "S\u00c9RIES - CRIME",
+        "parent_id": 0
+    },
+    {
+        "category_id": "369",
+        "category_name": "S\u00c9RIES - DRAMA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "370",
+        "category_name": "S\u00c9RIES - DOCUMENT\u00c1RIOS",
+        "parent_id": 0
+    },
+    {
+        "category_id": "29",
+        "category_name": "S\u00c9RIES - FAROESTE",
+        "parent_id": 0
+    },
+    {
+        "category_id": "269",
+        "category_name": "S\u00c9RIES - FICC\u00c3O & FANTASIA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "34",
+        "category_name": "S\u00c9RIES - GUERRA",
+        "parent_id": 0
+    },
+    {
+        "category_id": "366",
+        "category_name": "S\u00c9RIES - MARVEL",
+        "parent_id": 0
+    },
+    {
+        "category_id": "32",
+        "category_name": "S\u00c9RIES - NACIONAL",
+        "parent_id": 0
+    },
+    {
+        "category_id": "367",
+        "category_name": "MINI-S\u00c9RIES",
+        "parent_id": 0
+    },
+    {
+        "category_id": "373",
+        "category_name": "S\u00c9RIES - REALITY",
+        "parent_id": 0
+    },
+    {
+        "category_id": "290",
+        "category_name": "SERIES - ROMANCE",
+        "parent_id": 0
+    },
+    {
+        "category_id": "364",
+        "category_name": "S\u00c9RIES - SUSPENSE\/ MIST\u00c9RIO",
+        "parent_id": 0
+    },
+    {
+        "category_id": "33",
+        "category_name": "S\u00c9RIES - TERROR",
+        "parent_id": 0
+    },
+    {
+        "category_id": "409",
+        "category_name": "S\u00c9RIES - TURCAS",
+        "parent_id": 0
+    },
+    {
+        "category_id": "390",
+        "category_name": "S\u00c9RIES - TV SHOW",
+        "parent_id": 0
+    },
+    {
+        "category_id": "149",
+        "category_name": "ANIMES",
+        "parent_id": 0
+    },
+    {
+        "category_id": "225",
+        "category_name": "NOVELAS",
+        "parent_id": 0
+    },
+    {
+        "category_id": "417",
+        "category_name": "SERIES - ABC",
+        "parent_id": 0
+    },
+    {
+        "category_id": "419",
+        "category_name": "S\u00c9RIES - VIA PLAY",
+        "parent_id": 0
+    },
+    {
+        "category_id": "420",
+        "category_name": "S\u00c9RIES - CW",
+        "parent_id": 0
+    },
+    {
+        "category_id": "421",
+        "category_name": "S\u00c9RIES - LOOKE",
+        "parent_id": 0
+    },
+    {
+        "category_id": "423",
+        "category_name": "S\u00c9RIES - BBC ONE",
+        "parent_id": 0
+    },
+    {
+        "category_id": "424",
+        "category_name": "S\u00c9RIES - BRASIL PARALELO",
+        "parent_id": 0
+    },
+    {
+        "category_id": "426",
+        "category_name": "PR\u00c9 LANCAMENTO",
+        "parent_id": 0
+    }
+]

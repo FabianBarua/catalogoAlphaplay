@@ -54,12 +54,12 @@ export const Filters = () => {
   return (
     <div className='flex w-full flex-wrap md:flex-nowrap mb-6 md:mb-0 gap-4'>
       <Input
+        id='myInput'
         onValueChange={text => {
           searchByText(text)
         }}
-        isClearable
         size='sm'
-        placeholder='Type to search...'
+        placeholder='Escreva para pesquisar...'
         startContent={
           <SearchIcon className='text-black/50 mb-0.5 dark:text-white/90 text-slate-400 pointer-events-none flex-shrink-0' />
         }

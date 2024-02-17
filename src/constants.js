@@ -27,7 +27,8 @@ export const initialFilter = {
   category_id: 'all',
   name: null,
   min_rating: null,
-  min_last_modified: null
+  min_last_modified: null,
+  results: 0
 }
 
 export const INITIAL_LENGHT = 20

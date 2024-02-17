@@ -6,8 +6,9 @@ export const useFilters = () => {
   const [searchText, setSearchText] = useState('')
   const [type, setType] = useState(getTypeFromUrl)
   const [filters, setFilters] = useState(initialFilter)
+
   const filterContent = content => {
-    return content.filter(({ category_id, name }) => {
+    const newContent = content.filter(({ category_id, name }) => {
       const isCategoryMatch =
         category_id === filters.category_id ||
         filters.category_id === defaultCategory.category_id
@@ -16,6 +17,8 @@ export const useFilters = () => {
 
       return isCategoryMatch && isTextMatch
     })
+
+    return newContent
   }
 
   const updateType = newType => {

@@ -7,11 +7,12 @@ import { FilterContext } from '../context/filter'
 export const useContent = () => {
   const [contentResponse, setContentResponse] = useState([])
   const { type } = useContext(FilterContext)
+
   useEffect(() => {
     // TODO fetch a api
     const { default: response } = type === TYPES.movies ? vodMock : seriesMock
-    const mapped = mappedResponse(response)
-    setContentResponse(mapped)
+    const mappedAndSorted = sortByLastModified(mappedResponse(response))
+    setContentResponse(mappedAndSorted)
   }, [type])
 
   const mappedResponse = response =>
@@ -38,6 +39,14 @@ export const useContent = () => {
         return mapped
       }
     )
+
+  const sortByLastModified = data => {
+    return data.slice().sort((a, b) => {
+      const timeA = a.last_modified || a.added
+      const timeB = b.last_modified || b.added
+      return timeB - timeA
+    })
+  }
 
   return { contentResponse, setContentResponse }
 }
